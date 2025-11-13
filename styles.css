@@ -1,0 +1,19 @@
+/* ADD CODE HERE */
+.container {
+
+}
+
+
+/* DO NOT EDIT BELOW */
+
+div, h2 {
+  width: 150px;
+  height: 150px;
+  background-color: hotpink;
+}
+
+#navigation {
+  width: 750px;
+  background-color: blue;
+  color: blue;
+}
